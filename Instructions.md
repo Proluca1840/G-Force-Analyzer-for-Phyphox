@@ -1,4 +1,8 @@
-# 📘 Instructions for Phypox G-Force Analyzer
+# G-Force-Analyzer-for-Phyphox
+Phypox G-Force Analyzer is a small Python tool designed to help users **analyze accelerometer data collected from the Phypox mobile app.** The script reads Excel files exported from Phypox, calculates the **total acceleration (G-force)**, and generates a visual plot showing G-force vs. time. This project is ideal for students, hobbyists, or researchers who want to study **motion, forces, and accelerations** from rides, experiments, or other movements, without requiring advanced software.
+
+
+## 📘 Instructions for Phypox G-Force Analyzer
 
 This guide explains how to install dependencies, use the script, and adapt it to your own Phypox data files.
 
